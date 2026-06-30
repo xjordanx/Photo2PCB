@@ -1,0 +1,25 @@
+## .NET build output
+bin/
+obj/
+*.user
+
+## Rider / VS
+.vs/
+.idea/
+
+## Test output
+TestResults/
+
+## OS cruft
+Thumbs.db
+.DS_Store
+
+## Local Claude Code settings
+.claude/settings.local.json
+
+## Personal sample photos (not distributed); drop your own PNG/JPG here to test
+Test Files/
+
+## Release packaging output
+publish/
+*.zip
