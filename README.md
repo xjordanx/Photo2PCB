@@ -78,3 +78,7 @@ matching mm-unit `viewBox`) so it drops straight into PCB CAM / etching workflow
   patched version ships.
 - Dithered photos at full resolution can produce large SVGs (one stroke per ink run).
   Run-merging / decimation is a natural future optimization.
+
+## License
+
+[MIT](LICENSE) © 2026 Ben Jordan
